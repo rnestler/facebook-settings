@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Facebook Account erstellen
 
-You can use the [editor on GitHub](https://github.com/rnestler/facebook-settings/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ 1. Gehe mit dem Webbrowser deiner Wahl auf
+    https://de-de.facebook.com/
+ 2. Gib rechts deinen Vor- und Nachnamen sowie eine E-Mail Adresse an.
+    (Du kannst auch Fantasienamen angeben)
+ 3. Wähle ein sicheres Passwort
+ 4. Ihr bekommt eine E-Mail mit einer 6 stelligen Nummer mit der ihr
+    die E-Mail Adresse bestätigt.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Einstellungen
 
-### Markdown
+Klicke rechts oben auf den Pfeil und wähle Einstellungen.
+![](einstellungen.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dann gehe auf Privatsphäre und passe die Einstellungen an:
+![](einstellungen-privatsphaere.png)
 
-```markdown
-Syntax highlighted code block
+Als nächstes Chronik und Markierungen
+![](einstellungen-chronik.png)
 
-# Header 1
-## Header 2
-### Header 3
+Beim Abschnitt Gesichtserkennung könnt ihr diese ausschalten.
 
-- Bulleted
-- List
+Gehe dann auf Werbeanzeigen. Klicke auf den Reiter "Deine Informationen" und
+deaktiviere das Weitergeben aller Informationen an Werbetreibende:
+![](einstellungen-deine-informationen.png)
 
-1. Numbered
-2. List
+Klicke dann auf den Reiter "Einstellungen für Werbeanzeigen" und
+deaktiviere dass deine Aktionen für Werbezwecke verwendet werden.
+![](einstellungen-werbeanzeigen.png)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# Anhang
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Webbrowser
 
-### Jekyll Themes
+Ich empfehle [Firefox](https://www.mozilla.org/en-US/firefox/new/) von
+Mozilla als Webbrowser. Mozilla wird von einer Non-Profit Organisation
+geführt und hat somit weniger kommerzielle Interessen als zum Beispiel
+Google welche den Chrome Browser zur Verfügung stellen. Auch blockt
+Firefox das Verfolgen (Tracken) von Deinen Aktivitäten im Internet.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rnestler/facebook-settings/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Wollt ihr trotzdem Chrome verwenden, empfehle ich die Erweiterung
+["Privacy Badger"](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+zu installieren, welche Ebenfalls Tracker blockiert.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 10minutemail
+Willst Du nicht deine richtige E-Mail verwenden kannst Du
+https://10minutemail.net/ verwenden. Das hat dann aber den Nachteil,
+dass Du den Account nicht zurücksetzen kannst wenn Du das Passwort mal
+vergisst.
