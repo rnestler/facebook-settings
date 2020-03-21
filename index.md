@@ -1,7 +1,7 @@
 # Facebook Account erstellen
 
  1. Gehe mit dem Webbrowser deiner Wahl auf
-    https://de-de.facebook.com/
+    <https://de-de.facebook.com/>
  2. Gib rechts deinen Vor- und Nachnamen sowie eine E-Mail Adresse an.
     (Du kannst auch Fantasienamen angeben)
  3. Wähle ein sicheres Passwort
@@ -51,6 +51,6 @@ zu installieren, welche Ebenfalls Tracker blockiert.
 
 ## 10minutemail
 Willst Du nicht deine richtige E-Mail verwenden kannst Du
-https://10minutemail.net/ verwenden. Das hat dann aber den Nachteil,
+<https://10minutemail.net/> verwenden. Das hat dann aber den Nachteil,
 dass Du den Account nicht zurücksetzen kannst wenn Du das Passwort mal
 vergisst.
