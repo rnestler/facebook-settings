@@ -11,22 +11,27 @@
 # Einstellungen
 
 Klicke rechts oben auf den Pfeil und wähle Einstellungen.
+
 ![](einstellungen.png)
 
 Dann gehe auf Privatsphäre und passe die Einstellungen an:
+
 ![](einstellungen-privatsphaere.png)
 
 Als nächstes Chronik und Markierungen
+
 ![](einstellungen-chronik.png)
 
 Beim Abschnitt Gesichtserkennung könnt ihr diese ausschalten.
 
 Gehe dann auf Werbeanzeigen. Klicke auf den Reiter "Deine Informationen" und
 deaktiviere das Weitergeben aller Informationen an Werbetreibende:
+
 ![](einstellungen-deine-informationen.png)
 
 Klicke dann auf den Reiter "Einstellungen für Werbeanzeigen" und
 deaktiviere dass deine Aktionen für Werbezwecke verwendet werden.
+
 ![](einstellungen-werbeanzeigen.png)
 
 
